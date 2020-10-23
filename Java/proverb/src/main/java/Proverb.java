@@ -7,8 +7,6 @@ class Proverb {
 
     List<String> words = new ArrayList<String>();
 
-
-
     Proverb(String[] words) {
 
         Collections.addAll(this.words, words);
@@ -26,8 +24,6 @@ class Proverb {
         }
 
         proverb.append("And all for the want of a " + words.get(0) + ".");
-
-        System.out.println(proverb.toString());
 
         return proverb.toString();
 
