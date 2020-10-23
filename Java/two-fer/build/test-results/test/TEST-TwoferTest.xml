@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TwoferTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-10-21T01:46:48" hostname="DESKTOP-HAL4MHS" time="0.017">
+  <properties/>
+  <testcase name="noNameGiven" classname="TwoferTest" time="0.01"/>
+  <testcase name="emptyStringIsNotTheSameAsNull" classname="TwoferTest" time="0.0"/>
+  <testcase name="aNameGiven" classname="TwoferTest" time="0.001"/>
+  <testcase name="anotherNameGiven" classname="TwoferTest" time="0.001"/>
+  <system-out><![CDATA[One for you, one for me.
+One for , one for me.
+One for Alice, one for me.
+One for Bob, one for me.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
