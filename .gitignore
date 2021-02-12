@@ -1,0 +1,5 @@
+*/.git
+*.class
+*.o
+*/node_modules
+.DS_Store
